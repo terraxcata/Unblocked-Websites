@@ -9,7 +9,7 @@ Unblocked Websites is an Open Source tool Website for school that includes games
 
 
 ## Demo
-schoolizboring.github.io/Unblocked-Websites/
+unblocked.run.place
 
 
 ## Authors
