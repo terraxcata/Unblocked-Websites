@@ -9,7 +9,7 @@ Unblocked Websites is an Open Source tool Website for school that includes games
 
 
 ## Demo
-unblocked.run.place
+https://www.unblocked.run.place
 
 
 ## Authors
